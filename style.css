@@ -6,21 +6,10 @@ body {
     padding: 0;
 }
 
-.container {
-    width: 80%;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 25px;
-    background-color: whitesmoke;
-    border: 1px solid gray;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px black;
-}
-
 h1 {
     color: blue;
-    border-bottom: 2px solid white;
-    padding-bottom: 10px;
+    border-bottom: 5px solid white;
+    padding-bottom: 15px;
 }
 
 p {
